@@ -1,6 +1,6 @@
 # HealHub-7.5
-ENG: Online doctor appointment system with the ability to select a specialty, doctor and appointment time.  
-RUS: Онлайн-система записи на прием к врачам с возможностью выбора специализации, врача и времени приема.
+**ENG:** Online doctor appointment system with the ability to select a specialty, doctor and appointment time.  
+**RUS:** Онлайн-система записи на прием к врачам с возможностью выбора специализации, врача и времени приема.
 ## Команда разработки:  
 * **Алексей Черных [VK](https://vk.com/fextice) [TG](https://t.me/F3xt9i03) [Git](https://github.com/Fextice) - тимлид, дизайнер, маркетолог, технический писатель.**
 * **Мохамед Абдиладиф Ибрахим Али [VK](https://vk.com/id612920587) [TG]() [Git]() - бэкенд-разработчик, разработчик баз данных, тестировщик.**
