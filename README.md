@@ -17,8 +17,12 @@
 * [Figma](https://www.figma.com/file/9INz5ezkG9AaDiljKpZhnt/HealHub?type=design&node-id=0%3A1&mode=design&t=sHh3tNe8V3jU4OeK-1)
 ## Документация:
 * Курсовой проект [docx]() [pdf]()
+* Заполненный перечень задач по оформлению ТЗ [jpg]() [pdf]()
 * Техническое задание [docx](https://github.com/Fextice/HealHub/blob/main/documents/TZMedHub.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/TZ_MedHub.pdf)
-## Аналитика веб-приложения:
+## Презентация проекта:
+* Сопроводительное письмо [docx]() [pdf]()
+* Презентация [pptx]() [PDF]()
+* Видео презентация [Youtube]()
 
 
 
