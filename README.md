@@ -20,9 +20,9 @@
 * Заполненный бланк перечень задач по оформлению ТЗ [jpg](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.jpg) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.pdf)
 * Техническое задание [docx](https://github.com/Fextice/HealHub/blob/main/documents/TZMedHub.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/TZ_MedHub.pdf)
 ## Презентация проекта:
-* Сопроводительное письмо [docx]() [pdf]()
+* Сопроводительное письмо [docx](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.pdf)
 * Презентация [pptx](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pptx) [pdf](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pdf)
-* Видео презентация [Youtube]()
+* Видео презентация [Youtube](https://youtu.be/d6ibWwOLbfc)
 
 
 
