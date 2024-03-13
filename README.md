@@ -21,7 +21,7 @@
 * Техническое задание [docx](https://github.com/Fextice/HealHub/blob/main/documents/TZMedHub.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/TZ_MedHub.pdf)
 ## Презентация проекта:
 * Сопроводительное письмо [docx]() [pdf]()
-* Презентация [pptx]() [PDF]()
+* Презентация [pptx](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pptx) [pdf](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pdf)
 * Видео презентация [Youtube]()
 
 
