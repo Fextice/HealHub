@@ -25,7 +25,7 @@
 * Видео презентация [Youtube](https://youtu.be/_HgKgCQFTBs)
 
 ## Backend Repository
-Чтобы узнать о «BACKEND» части проекта [HealHubBackEnd](https://github.com/abdiladifart/HealHubBackEnd).
+«BACKEND» части проекта [HealHubBackEnd](https://github.com/abdiladifart/HealHubBackEnd).
 
 
 
