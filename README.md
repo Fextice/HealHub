@@ -24,9 +24,6 @@
 * Презентация [pptx](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pptx) [pdf](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pdf)
 * Видео презентация [Youtube](https://youtu.be/_HgKgCQFTBs)
 
-## Backend Repository
-«BACKEND» части проекта [HealHubBackEnd](https://github.com/abdiladifart/HealHubBackEnd).
-
 
 
 
