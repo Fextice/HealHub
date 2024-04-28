@@ -3,5 +3,5 @@
 	url = https://github.com/abdiladifart/BackEndHealHub
 [submodule "HealhubFrontEnd"]
 	path = HealhubFrontEnd
-	url = https://github.com/Karlos132000/HealhubFrontEnd
+	url = https://github.com/Karlos132000/HealhubFrontEnd/tree/c1e30efb9945d7ba56a818125cd5ce5f9f07ff5f
 
