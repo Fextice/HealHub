@@ -2,3 +2,6 @@
 	path = BackEndHealHub
 	url = https://github.com/abdiladifart/BackEndHealHub
 
+[submodule "FrontEndHealhub"]
+	path = FrontEndHealhub
+	url = https://github.com/Karlos132000/FrontEndHealHub
