@@ -16,7 +16,7 @@
 * [Miro](https://miro.com/app/board/uXjVNqbIrLw=/?share_link_id=725939381046)
 * [Figma](https://www.figma.com/file/9INz5ezkG9AaDiljKpZhnt/HealHub?type=design&node-id=0%3A1&mode=design&t=sHh3tNe8V3jU4OeK-1)
 ## Документация:
-* Курсовой проект [docx]() [pdf]()
+* Курсовой проект [docx](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.docx) [pdf](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.pdf)
 * Заполненный бланк перечень задач по оформлению ТЗ [jpg](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.jpg) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.pdf)
 * Техническое задание [docx](https://github.com/Fextice/HealHub/blob/main/documents/TZMedHub.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/TZ_MedHub.pdf)
 ## Презентация проекта:
