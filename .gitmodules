@@ -7,3 +7,6 @@
 	url =https://github.com/Karlos132000/FrontEndHealHub
 
 
+[submodule "path/to/submodule"]
+	path = path/to/submodule
+	url = https://github.com/Karlos132000/FrontEndHealHub
