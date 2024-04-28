@@ -13,7 +13,7 @@
 * Возможность узнать о враче необходимую информацию.
 ## Сервисы:
 * [Trello](https://trello.com/b/YhRHg7lF/healhub)
-* [Miro](https://miro.com/app/board/uXjVNqbIrLw=/?share_link_id=725939381046)
+* [Miro](https://miro.com/app/board/uXjVKOJQE1A=/)
 * [Figma](https://www.figma.com/file/9INz5ezkG9AaDiljKpZhnt/HealHub?type=design&node-id=0%3A1&mode=design&t=sHh3tNe8V3jU4OeK-1)
 ## Документация:
 * Курсовой проект [docx](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.docx) [pdf](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.pdf)
