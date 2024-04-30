@@ -23,6 +23,7 @@
 * Сопроводительное письмо [docx](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.pdf)
 * Презентация [pptx](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pptx) [pdf](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pdf)
 * Видео презентация [Youtube](https://youtu.be/_HgKgCQFTBs)
+* Видео демонстрация сайта [Youtube](https://youtu.be/zVzhGBCHYiA)
 
 ## Back-End  
 [BackEndHealHub](https://github.com/abdiladifart/BackEndHealHub)
