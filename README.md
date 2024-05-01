@@ -19,6 +19,8 @@
 * Курсовой проект [docx](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.docx) [pdf](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.pdf)
 * Заполненный бланк перечень задач по оформлению ТЗ [jpg](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.jpg) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.pdf)
 * Техническое задание [docx](https://github.com/Fextice/HealHub/blob/main/documents/TZMedHub.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/TZ_MedHub.pdf)
+* [Документация к API](https://app.swaggerhub.com/apis/ABADILUTFI54/HealHub-open-api_definition/v0)
+
 ## Презентация проекта:
 * Сопроводительное письмо [docx](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.pdf)
 * Презентация [pptx](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pptx) [pdf](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pdf)
@@ -26,7 +28,8 @@
 * Видео демонстрация сайта [Youtube](https://youtu.be/zVzhGBCHYiA)
 
 ## Back-End  
-[BackEndHealHub](https://github.com/abdiladifart/BackEndHealHub)
+*[BackEndHealHub](https://github.com/abdiladifart/BackEndHealHub)
+
 
 
 ## Front-End  
