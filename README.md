@@ -25,7 +25,8 @@
 * Сопроводительное письмо [docx](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/Soprovoditelnoe_pismo.pdf)
 * Презентация [pptx](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pptx) [pdf](https://github.com/Fextice/HealHub/blob/main/presentation/prez_healhub.pdf)
 * Видео презентация [Youtube](https://youtu.be/_HgKgCQFTBs)
-* Видео демонстрация сайта [Youtube](https://youtu.be/zVzhGBCHYiA)
+* Видео демонстрация сайта(1 аттестация) [Youtube](https://youtu.be/zVzhGBCHYiA)
+* Видео демонстрация сайта(2 аттестация) [Youtube](https://youtu.be/TUiPAq89iBk)
 * Презентация для второй аттестации [pptx](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pptx) [pdf](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pdf)
 ## Back-End  
 [BackEndHealHub](https://github.com/abdiladifart/BackEndHealHub)
