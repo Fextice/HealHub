@@ -1,7 +1,7 @@
 # HealHub-7.5
 Онлайн-система записи на прием к врачам с возможностью выбора специализации, врача и времени приема.
 ## Команда разработки:  
-* **Алексей Черных [VK](https://vk.com/fextice) [TG](https://t.me/F3xt9i03) [Git](https://github.com/Fextice) - тимлид, дизайнер, проджект-менеджер, технический писатель.**
+* **Алексей Черных [VK](https://vk.com/fextice) [TG](https://t.me/F3xt9i03) [Git](https://github.com/Fextice) - тимлид, дизайнер, продукт-менеджер, технический писатель.**
 * **Абдиладиф Ибрахим Али Мохамед [VK](https://vk.com/id612920587) [TG](https://t.me/AbdiladifFrxan) [Git](https://github.com/abdiladifart) - бэкенд-разработчик, разработчик баз данных.**
 * **Карлос Ашраф Милад Фахим [VK](https://vk.com/id559037857) [TG](https://t.me/karlosashraf80) [Git](https://github.com/Karlos132000) - фронтенд-разработчик.**
 ## Описание проекта:
