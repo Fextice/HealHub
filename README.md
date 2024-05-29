@@ -16,9 +16,9 @@
 * [Miro](https://miro.com/app/board/uXjVKOJQE1A=/)
 * [Figma](https://www.figma.com/file/9INz5ezkG9AaDiljKpZhnt/HealHub?type=design&node-id=0%3A1&mode=design&t=sHh3tNe8V3jU4OeK-1)
 ## Документация:
-* Курсовой проект [docx](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.docx) [pdf](https://github.com/Fextice/HealHub/blob/master/documents/HealHubKursach.pdf)
+* Курсовой проект [docx](https://github.com/Fextice/HealHub/blob/master/documents/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx) [pdf](https://github.com/Fextice/HealHub/blob/master/documents/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf)
 * Заполненный бланк перечень задач по оформлению ТЗ [jpg](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.jpg) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/pTZ.pdf)
-* Техническое задание [docx](https://github.com/Fextice/HealHub/blob/main/documents/TZMedHub.docx) [pdf](https://github.com/Fextice/HealHub/blob/main/documents/TZ_MedHub.pdf)
+* Техническое задание [docx](https://github.com/Fextice/HealHub/blob/master/documents/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [pdf](https://github.com/Fextice/HealHub/blob/master/documents/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 * [Документация к API](https://app.swaggerhub.com/apis/ABADILUTFI54/HealHub-open-api_definition/v0)
 
 ## Презентация проекта:
