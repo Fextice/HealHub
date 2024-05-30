@@ -28,6 +28,8 @@
 * Видео демонстрация сайта(1 аттестация) [Youtube](https://youtu.be/zVzhGBCHYiA)
 * Видео демонстрация сайта(Предзащита) [Youtube](https://youtu.be/TUiPAq89iBk)
 * Презентация для второй аттестации [pptx](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pptx) [pdf](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pdf)
+* Презентация (Предзащита) [pptx](https://github.com/Fextice/HealHub/blob/master/documents/PresentationD%20(2).pdf)
+
 ## Back-End  
 [BackEndHealHub](https://github.com/abdiladifart/BackEndHealHub)
 
