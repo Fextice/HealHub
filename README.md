@@ -30,6 +30,11 @@
 * Презентация для второй аттестации [pptx](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pptx) [pdf](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pdf)
 * Презентация (Предзащита) [pptx](https://github.com/Fextice/HealHub/blob/master/documents/PresentationD%20(2).pdf)
 
+## Аналитика приложения:
+* Yandex Metrika [Link](https://metrika.yandex.ru/overview?id=97430458&period=month&group=day&isMinSamplingEnabled=false&accuracy=1&isSamplingEnabled=true)
+
+
+
 ## Back-End  
 [BackEndHealHub](https://github.com/abdiladifart/BackEndHealHub)
 
