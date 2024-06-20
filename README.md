@@ -29,7 +29,7 @@
 * Видео демонстрация сайта(Предзащита) [Youtube](https://youtu.be/TUiPAq89iBk)
 * Презентация для второй аттестации [pptx](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pptx) [pdf](https://github.com/Fextice/HealHub/blob/master/presentation/HealHub_prez2atta.pdf)
 * Презентация (Предзащита) [pptx](https://github.com/Fextice/HealHub/blob/master/documents/PresentationD%20(2).pdf)
-* Презентация (защита) [pptx](https://github.com/Fextice/HealHub/blob/master/documents/PresentationD_1%5B1%5D%5B1%5D.pptx%20%20-%20%20Read-Only.pptx) [pdf](file:///C:/Users/Admin/AppData/Local/Microsoft/Windows/INetCache/IE/NBUWJOCO/PresentationD_1[1][1].pdf)
+* Презентация (защита) [pptx](https://github.com/Fextice/HealHub/blob/master/documents/PresentationD_1%5B1%5D%5B1%5D.pptx%20%20-%20%20Read-Only.pptx) [pdf](https://github.com/Fextice/HealHub/blob/master/documents/PresentationD_1%5B1%5D%5B1%5D.pptx%20%20-%20%20Read-Only.pdf)
 
 ## Аналитика приложения:
 * Yandex Metrika [Link](https://metrika.yandex.ru/overview?id=97430458&period=month&group=day&isMinSamplingEnabled=false&accuracy=1&isSamplingEnabled=true)
